@@ -9,10 +9,15 @@
   "author": "Tarun",
   "license": "ISC",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.1.16",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.1"
   },
   "devDependencies": {
-    "parcel": "^2.15.4"
+    "autoprefixer": "^10.4.21",
+    "parcel": "^2.16.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.16"
   }
 }
